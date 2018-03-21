@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_puntaje"
+            android:icon="@drawable/ic_medalla"
+            android:title="Ver Puntajes" />
+        <item
+            android:id="@+id/nav_reiniciar"
+            android:icon="@drawable/ic_reiniciar"
+            android:title="Reiniciar" />
+        <item
+            android:id="@+id/nav_sacerca"
+            android:icon="@drawable/ic_acerca"
+            android:title="Acerca de" />
+        <item
+            android:id="@+id/nav_salir"
+            android:icon="@drawable/ic_salir"
+            android:title="Salir" />
+    </group>
+
+
+
+</menu>
+
+
+

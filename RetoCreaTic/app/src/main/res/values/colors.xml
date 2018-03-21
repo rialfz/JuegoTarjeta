@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#772742</color>
+    <color name="secundary_dark">#29434e</color>
+    <color name="secundary_light">#819ca9</color>
+    <color name="vinotinto">#a40b13</color>
+    <color name="verde">#2a7618</color>
+    <color name="negro">#000000</color>
+
+    <color name="text_primario">#FFF</color>
+    <color name="text_color_hint">#C5CAE9</color>
+
+    <color name="background_cardview">#FFF</color>
+    <color name="background_toolbar">#FFF</color>
+    <color name="background_botton_navegationview">#FFF</color>
+    <color name="background_button">#FFF</color>
+</resources>
